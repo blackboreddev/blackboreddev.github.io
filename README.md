@@ -1,4 +1,4 @@
-# blackbored.
+![blackbored_logo_2](https://github.com/blackboreddev/blackboreddev.github.io/assets/261265/f8cbb042-6a4b-43ee-99de-f4b87745fcf1)
 
 perfecting the software craft (PTC).
 
