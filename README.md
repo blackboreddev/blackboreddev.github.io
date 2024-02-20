@@ -6,7 +6,8 @@ perfecting the software craft (PTC).
 
 **email:** `hello@bored.black` <br/>
 **linkedin:** [blackbored.](https://www.linkedin.com/company/blackbored/) <br/>
-**x:** [@blackbored_](https://x.com/blackbored_)
+**x:** [@blackbored_](https://x.com/blackbored_) <br/>
+**whatsapp channel:** [@blackbored.](https://whatsapp.com/channel/0029VaQb4mj4tRrs0ldS240T)
 
 ### Live Sessions this Week
 
