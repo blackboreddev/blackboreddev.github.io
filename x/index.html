@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blackbored. Redirect</title>
+    <script>
+        // a basic redirect service
+        const urls = { 
+            "sc": "https://www.youtube.com/watch?v=x5VA3cEB7gM",
+        };
+
+        // Function to extract the key from the URL
+        function getKeyFromURL() {
+            const url = window.location.href;
+            const parts = url.split('/'); // Split the URL by '/'
+            const key = parts[parts.length - 1]; // Get the last part of the URL
+            return key;
+        }
+
+        // Function to redirect
+        function redirectToMappedURL() {
+            const key = getKeyFromURL();
+            if (!key) window.location.href = "https://bored.black";
+
+            const mappedURL = urls[key];
+            if (mappedURL) {
+                window.location.href = mappedURL; // Redirect to the mapped URL
+            } else {
+                window.location.href = "https://bored.black";
+            }
+        }
+
+        // Call the function to perform the redirect
+        redirectToMappedURL();
+    </script>
+</head>
+<body>
+    <p><strong>blackbored.</strong> Redirect</p>
+    <p><a href="https://bored.black">go: home</a></p>
+</body>
+</html>
