@@ -12,8 +12,8 @@ perfecting the software craft (PTC).
 ### Live Sessions this Week
 
 * [Book Review: _Software Craftmanship_ (part 2)](https://www.youtube.com/watch?v=x5VA3cEB7gM), Mon, Feb 26, 2024, 7 - 8 AM EAT
-* [Book Review: _The Clean Coder_ (part 2)](https://www.youtube.com/watch?v=3fD1A6VcQxc), Thur, Feb 29, 2024, 8 - 9 PM EAT
-* [Book Review: _Software Craftmanship_ (part 3)](https://www.youtube.com/watch?v=x5VA3cEB7gM), Fri, Mar 1, 2024, 7 - 8 AM EAT
+* [Book Review: _The Clean Coder_ (part 2)](https://www.youtube.com/watch?v=N4MhRhoGCgs), Thur, Feb 29, 2024, 8 - 9 PM EAT
+* [Book Review: _Software Craftmanship_ (part 3)](https://www.youtube.com/watch?v=3fD1A6VcQxc), Fri, Mar 1, 2024, 7 - 8 AM EAT
 
 ### Past Sessions
 * [Book Review: _The Clean Coder_](https://www.youtube.com/watch?v=vh0Z-8F1fGM), Thur, Feb 22, 2024, 8 - 9 PM EAT
