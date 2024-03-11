@@ -10,11 +10,12 @@ perfecting the software craft (PTC).
 **whatsapp channel:** [blackbored.](https://whatsapp.com/channel/0029VaQb4mj4tRrs0ldS240T)
 
 ### Live Sessions this Week
-* [Book Review: _The Clean Coder_ (part 3)](#) - TBD
-* [#BBLive: ep.7 ft. Synthia Wasonga - Chasing Excellence in Software Craft](https://www.youtube.com/watch?v=4XfKJ7Bbhmo), Fri, Mar 8, 2014, 8 - 9 AM EAT
-* [Book Review: _Software Craftmanship_ (part 4)](#), Sat, Mar 9, 2024, 7 - 8 AM EAT
+* [Book Review: _The Clean Coder_ (part 3)](https://www.youtube.com/watch?v=BAr3AquWRkw) - Tue, Mar 12, 2024, 7 - 8 AM EAT
+* [Book Review: _The Clean Coder_ (part 4)](https://www.youtube.com/watch?v=Iq_aSpIZUTY) - Wed, Mar 13, 2024, 7 - 8 AM EAT
+* [#BBLive: ep.8 ft. Jason Rogena - Perfecting the Craft in SRE](https://www.youtube.com/watch?v=WpG_07JLxGM), Thur, Mar 14, 2024, 8 - 9 **PM** EAT
 
 ### Past Sessions
+* [#BBLive: ep.7 ft. Synthia Wasonga - Chasing Excellence in Software Craft](https://www.youtube.com/watch?v=4XfKJ7Bbhmo), Fri, Mar 8, 2024, 8 - 9 AM EAT
 * [Book Review: _Software Craftmanship_ (part 3)](https://www.youtube.com/watch?v=3fD1A6VcQxc), Fri, Mar 1, 2024, 7 - 8 AM EAT
 * [Book Review: _The Clean Coder_ (part 2)](https://www.youtube.com/watch?v=N4MhRhoGCgs), Thur, Feb 29, 2024, 8 - 9 PM EAT
 * [Book Review: _Software Craftmanship_ (part 2)](https://www.youtube.com/watch?v=x5VA3cEB7gM), Mon, Feb 26, 2024, 7 - 8 AM EAT
