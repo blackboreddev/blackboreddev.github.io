@@ -10,10 +10,11 @@ perfecting the software craft (PTC).
 **whatsapp channel:** [blackbored.](https://whatsapp.com/channel/0029VaQb4mj4tRrs0ldS240T)
 
 ### Next Live Sessions
-* TBA
+
+* [#BBLive: ep.10 ft. Dorcas Litunya - Experience Contributing to the Linux Kernel](https://www.youtube.com/watch?v=U6jCun5vIOg), Thur, Aug 15, 2024, 8 - 9 PM EAT
 
 ### Past Sessions
-* [#BBLive: ep.8 ft. Jason Rogena - Perfecting the Craft in SRE](https://www.youtube.com/watch?v=WpG_07JLxGM), Thur, Apr 11, 2024, 8 - 9 **PM** EAT
+* [#BBLive: ep.8 ft. Jason Rogena - Perfecting the Craft in SRE](https://www.youtube.com/watch?v=WpG_07JLxGM), Thur, Apr 11, 2024, 8 - 9 PM EAT
 * [#BBLive: ep.9 ft. Sam Kariu - Getting back to the Fundamentals](https://www.youtube.com/watch?v=aGGLMnmvB2s), Thur, Mar 22, 2024, 8 - 9 AM EAT
 * [Book Review: _The Clean Coder_ (part 4)](https://www.youtube.com/watch?v=Iq_aSpIZUTY) - Wed, Mar 13, 2024, 7 - 8 AM EAT
 * [Book Review: _The Clean Coder_ (part 3)](https://www.youtube.com/watch?v=BAr3AquWRkw) - Tue, Mar 12, 2024, 7 - 8 AM EAT
