@@ -11,9 +11,10 @@ perfecting the software craft (PTC).
 
 ### Next Live Sessions
 
-* [#BBLive: ep.10 ft. Dorcas Litunya - Experience Contributing to the Linux Kernel](https://www.youtube.com/watch?v=U6jCun5vIOg), Thur, Aug 15, 2024, 8 - 9 PM EAT
+* [blackbored. Workshops: Getting Started with Linux Kernel Programming](https://streamyard.com/watch/DHk25PmkiMrT), Thur, September 5, 2024, 8 PM Nairobi. `new: webinar style`🎉
 
 ### Past Sessions
+* [#BBLive: ep.10 ft. Dorcas Litunya - Experience Contributing to the Linux Kernel](https://www.youtube.com/watch?v=U6jCun5vIOg), Thur, Aug 15, 2024, 8 - 9 PM EAT
 * [#BBLive: ep.8 ft. Jason Rogena - Perfecting the Craft in SRE](https://www.youtube.com/watch?v=WpG_07JLxGM), Thur, Apr 11, 2024, 8 - 9 PM EAT
 * [#BBLive: ep.9 ft. Sam Kariu - Getting back to the Fundamentals](https://www.youtube.com/watch?v=aGGLMnmvB2s), Thur, Mar 22, 2024, 8 - 9 AM EAT
 * [Book Review: _The Clean Coder_ (part 4)](https://www.youtube.com/watch?v=Iq_aSpIZUTY) - Wed, Mar 13, 2024, 7 - 8 AM EAT
