@@ -10,7 +10,7 @@ perfecting the software craft (PTC).
 **whatsapp channel:** [blackbored.](https://whatsapp.com/channel/0029VaQb4mj4tRrs0ldS240T)
 
 ### Next Live Sessions
-* TBD
+* [blackbored. Workshops // Vim: from zero to hero, pt.1 -- Japheth Obala](https://www.youtube.com/watch?v=FI4tmsp327k)
 
 ### Past Sessions
 * [blackbored. Workshops: Getting Started with Linux Kernel Programming](https://streamyard.com/watch/DHk25PmkiMrT), Thur, September 5, 2024, 8 PM Nairobi. `new: webinar style`🎉
