@@ -11,9 +11,10 @@ perfecting the software craft (PTC).
 
 ### Next Live Sessions
 
-* [blackbored. Workshops // Vim: from zero to hero, pt.2 -- Japheth Obala](https://www.youtube.com/watch?v=jY58aEApDvs), Thur, October 31, 2024, 8 PM EAT
+* [blackbored. DevStories Ep. 1 ft. Christine Wasike](https://www.youtube.com/watch?v=fHylOYOEu6I), Wed, December 11, 2024, 8 PM EAT
 
 ### Past Sessions
+* [blackbored. Workshops // Vim: from zero to hero, pt.2 -- Japheth Obala](https://www.youtube.com/watch?v=jY58aEApDvs), Thur, October 31, 2024, 8 PM EAT
 * [blackbored. Workshops // Vim: from zero to hero, pt.1 -- Japheth Obala](https://www.youtube.com/watch?v=FI4tmsp327k), Thur, October 24, 2024, 8 PM EAT
 * [blackbored. Workshops: Getting Started with Linux Kernel Programming, pt.2](https://www.youtube.com/watch?v=pbMHGxpkpSY&list=PLvW2YStuTWwB681rqas-89hovvFxod7Sf&index=3), Thur, September 8, 2024, 8 PM EAT
 * [blackbored. Workshops: Getting Started with Linux Kernel Programming, pt.1](https://streamyard.com/watch/DHk25PmkiMrT), Thur, September 5, 2024, 8 PM Nairobi. `new: webinar style`🎉
