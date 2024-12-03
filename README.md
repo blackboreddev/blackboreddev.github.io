@@ -14,10 +14,11 @@ perfecting the software craft (PTC).
 * [blackbored. DevStories Ep. 1 ft. Christine Wasike](https://www.youtube.com/watch?v=fHylOYOEu6I), Wed, December 11, 2024, 8 PM EAT
 
 ### Past Sessions
+* [blackbored. Workshops // Vim: from zero to hero, pt.3 -- Japheth Obala](https://www.youtube.com/watch?v=Nc0pDW5V9mc), Thur, November 14, 2024, 8 PM EAT
 * [blackbored. Workshops // Vim: from zero to hero, pt.2 -- Japheth Obala](https://www.youtube.com/watch?v=jY58aEApDvs), Thur, October 31, 2024, 8 PM EAT
 * [blackbored. Workshops // Vim: from zero to hero, pt.1 -- Japheth Obala](https://www.youtube.com/watch?v=FI4tmsp327k), Thur, October 24, 2024, 8 PM EAT
 * [blackbored. Workshops: Getting Started with Linux Kernel Programming, pt.2](https://www.youtube.com/watch?v=pbMHGxpkpSY&list=PLvW2YStuTWwB681rqas-89hovvFxod7Sf&index=3), Thur, September 8, 2024, 8 PM EAT
-* [blackbored. Workshops: Getting Started with Linux Kernel Programming, pt.1](https://streamyard.com/watch/DHk25PmkiMrT), Thur, September 5, 2024, 8 PM Nairobi. `new: webinar style`🎉
+* [blackbored. Workshops: Getting Started with Linux Kernel Programming, pt.1](https://streamyard.com/watch/DHk25PmkiMrT), Thur, September 5, 2024, 8 PM Nairobi.
 * [#BBLive: ep.10 ft. Dorcas Litunya - Experience Contributing to the Linux Kernel](https://www.youtube.com/watch?v=1jy067K8PkM&list=PLvW2YStuTWwB681rqas-89hovvFxod7Sf&index=2), Thur, Aug 15, 2024, 8 - 9 PM EAT
 * [#BBLive: ep.8 ft. Jason Rogena - Perfecting the Craft in SRE](https://www.youtube.com/watch?v=WpG_07JLxGM), Thur, Apr 11, 2024, 8 - 9 PM EAT
 * [#BBLive: ep.9 ft. Sam Kariu - Getting back to the Fundamentals](https://www.youtube.com/watch?v=aGGLMnmvB2s), Thur, Mar 22, 2024, 8 - 9 AM EAT
