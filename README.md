@@ -11,9 +11,10 @@ perfecting the software craft (PTC).
 
 ### Next Live Sessions
 
-* [blackbored. DevStories Ep. 3 ft. Abdulquddus Ajibade](https://www.youtube.com/watch?v=BEMw8l1mJMc), Thur, Jan 23, 2025, 8 PM EAT
+* [blackbored. Book REviews #3 - Anthony Nandaa](https://www.youtube.com/watch?v=KJ7-5ATwb8c), Thur, Apr 17, 2025, 8 PM EAT
 
 ### Past Sessions
+* [blackbored. DevStories Ep. 3 ft. Abdulquddus Ajibade](https://www.youtube.com/watch?v=BEMw8l1mJMc), Thur, Jan 23, 2025, 8 PM EAT
 * [blackbored. DevStories Ep. 2 ft. Levi Zwannah](https://www.youtube.com/watch?v=uH7jNpIHx2Y), Thur, Jan 8, 2025, 8 PM EAT
 * [blackbored. DevStories Ep. 1 ft. Christine Wasike](https://www.youtube.com/watch?v=fHylOYOEu6I), Wed, December 11, 2024, 8 PM EAT
 * [blackbored. Workshops // Vim: from zero to hero, pt.3 -- Japheth Obala](https://www.youtube.com/watch?v=Nc0pDW5V9mc), Thur, November 14, 2024, 8 PM EAT
