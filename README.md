@@ -11,7 +11,7 @@ perfecting the software craft (PTC).
 
 ### Next Live Sessions
 
-* A lot is coming soon, stay tuned.
+* [blackbored. Deep Dive Series - DB Storage Engines by Japheth Obala](https://www.youtube.com/watch?v=oiurIDPl9AE), Thur, Oct 2, 2025, 8 PM EAT
 
 ### Past Sessions
 * [blackbored. Book Reviews #3 - Anthony Nandaa](https://www.youtube.com/watch?v=KJ7-5ATwb8c), Thur, Apr 17, 2025, 8 PM EAT
